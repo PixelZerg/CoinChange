@@ -4,3 +4,9 @@ C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\CoinChange\CoinChange\b
 C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\CoinChange\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
 C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\CoinChange\CoinChange\obj\Debug\CoinChange.exe
 C:\Users\PixelZerg\Documents\Visual Studio 2015\Projects\CoinChange\CoinChange\obj\Debug\CoinChange.pdb
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\bin\Debug\CoinChange.exe.config
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\obj\Debug\CoinChange.exe
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\obj\Debug\CoinChange.pdb
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\bin\Debug\CoinChange.exe
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\bin\Debug\CoinChange.pdb
+C:\Users\PixelZerg\Documents\GitHub\CoinChange\CoinChange\obj\Debug\CoinChange.csprojResolveAssemblyReference.cache
